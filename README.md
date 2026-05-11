@@ -6,8 +6,7 @@ Tento projekt provádí hloubkovou analýzu výkonnosti kariéry Post Malona na 
 ---
 
 ### Náhled Dashboardu
-![Náhled Power BI Dashboardu](cesta/k/vasemu/obrazku.png)
-*Poznámka: Nahraďte "cesta/k/vasemu/obrazku.png" skutečnou cestou k vašemu screenshotu v repozitáři.*
+![Náhled Power BI Dashboardu](youtube_post_malone_analysis.png)
 
 ---
 
