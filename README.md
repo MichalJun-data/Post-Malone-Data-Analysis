@@ -12,7 +12,7 @@ Tento projekt provádí hloubkovou analýzu výkonnosti kariéry Post Malona na 
 
 ## Použité nástroje a technologie
 * **Databáze:** MySQL
-* **Techniky:** Pokročilé SQL (Common Table Expressions – CTE, okénkové funkce `RANK() OVER()`, `SUM() OVER()`, časové transformace)
+* **Techniky:** Pokročilé SQL (Common Table Expressions – CTE, window functions `RANK() OVER()`, `SUM() OVER()`, časové transformace)
 * **Vizualizace dat:** Power BI (Interaktivita, vlastní KPI, kalkulované metriky, Data Storytelling)
 
 ## Analýzovaný problém
