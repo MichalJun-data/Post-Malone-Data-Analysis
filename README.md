@@ -35,4 +35,4 @@ Pro zajištění přesné analýzy jsem použil modulární CTE k agregaci počt
 
 ## 📂 Soubory ke stažení
 * 📝 **SQL Skript:** [post_malone_analysis.sql](./post_malone_analysis.sql) - Plný, komentovaný kód pro transformaci dat.
-* 📊 **Zdrojová data:** [post_malone_data.csv](./cesta/k/vasemu/souboru.csv) - Kompletní dataset s daty o přehrání a stopáži.
+* 📊 **Zdrojová data:** [post_malone.all.data.csv](post_malone.all.data.csv) - Kompletní dataset s daty o přehrání a stopáži.
